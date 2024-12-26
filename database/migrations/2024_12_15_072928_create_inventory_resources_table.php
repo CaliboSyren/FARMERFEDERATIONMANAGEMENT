@@ -1,4 +1,4 @@
-Not Used 
+//Not Used 
 // <?php
 
 // use Illuminate\Database\Migrations\Migration;
